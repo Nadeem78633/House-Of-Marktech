@@ -1,6 +1,4 @@
-Below is a professional `README.md` file for your assignment. It provides an overview of the project, instructions for setting it up, and details about the features and technologies used.
 
----
 
 # House of MarkTech - Frontend Developer Assignment
 
@@ -163,10 +161,8 @@ src/
 ## Screenshots
 
 ### Desktop View
-![Desktop View](./screenshots/desktop.png)
-
-### Mobile View
-![Mobile View](./screenshots/mobile.png)
+![Desktop View]
+![Screenshot (32)](https://github.com/user-attachments/assets/c0c94544-31d8-46f5-8f6e-c140574184e8)
 
 ---
 
@@ -188,6 +184,4 @@ For any questions or feedback, feel free to reach out:
 
 Thank you for reviewing my assignment! 🚀
 
----
 
-Let me know if you need further adjustments or additional details! 😊
